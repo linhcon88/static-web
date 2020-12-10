@@ -1,5 +1,5 @@
 Bài thu hoạch HTML/CSS/JavaScript
-sinh viên Lưu Quang Linh 1931050001
+Sinh viên Lưu Quang Linh 1931050001
 Thiết kế trang tin tức báo VNWIND bao gồm :
 Menu chọn 
 Trang thông tin 
