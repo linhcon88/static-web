@@ -4,3 +4,4 @@ Thiết kế trang tin tức báo VNWIND bao gồm :
 Menu chọn 
 Trang thông tin 
 Trang thông tin chi tiết khi click chọn
+Nguồn thông tin và hình ảnh lấy từ trang web vnexpress.net
